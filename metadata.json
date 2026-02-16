@@ -1,0 +1,7 @@
+{
+  "name": "NOKTA CODES - نقطة كود | Digital Excellence",
+  "description": "Premium software development and UX/UI design agency focusing on precision and innovation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
