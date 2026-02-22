@@ -67,10 +67,10 @@ const CartIcon = () => (
 const LogoIcon = () => (
   <div className="relative w-12 h-12 flex items-center justify-center group">
     <div className="absolute inset-0 bg-violet-600 rounded-2xl rotate-3 group-hover:rotate-6 transition-transform duration-300"></div>
-    <div className="absolute inset-0 bg-white border-2 border-slate-900 rounded-2xl -rotate-3 group-hover:rotate-0 transition-transform duration-300 flex items-center justify-center overflow-hidden">
+    <div className="absolute inset-0 bg-white border-2 border-[#7c3aed] rounded-2xl -rotate-3 group-hover:rotate-0 transition-transform duration-300 flex items-center justify-center overflow-hidden">
       <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-8 h-8 text-slate-900 font-black">
         <path d="M10 30V10L30 30V10" stroke="currentColor" strokeWidth="6" strokeLinecap="round" strokeLinejoin="round" />
-        <circle cx="34" cy="34" r="4" fill="#7c3aed" className="animate-pulse" />
+        <circle cx="34" cy="34" r="4" fill="#F59E0B" className="animate-pulse" />
       </svg>
     </div>
   </div>
